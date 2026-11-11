@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="8" fill="#1f272f"/>
+
+  <!-- left circle: back layer / halo -->
+  <circle
+    cx="9.5"
+    cy="20"
+    r="5.8"
+    fill="#1f272f"
+    stroke="#1f272f"
+    stroke-width="4.4"
+  />
+  <circle
+    cx="9.5"
+    cy="20"
+    r="5.8"
+    fill="none"
+    stroke="#E5E7EB"
+    stroke-width="2.2"
+  />
+
+  <!-- center circle: middle layer / halo -->
+  <circle
+    cx="16.5"
+    cy="12"
+    r="6.8"
+    fill="#1f272f"
+    stroke="#1f272f"
+    stroke-width="5.0"
+  />
+  <circle
+    cx="16.5"
+    cy="12"
+    r="6.8"
+    fill="none"
+    stroke="#F59E0B"
+    stroke-width="2.6"
+  />
+
+  <!-- right circle: front layer / halo -->
+  <circle
+    cx="24"
+    cy="18.5"
+    r="5.1"
+    fill="#1f272f"
+    stroke="#1f272f"
+    stroke-width="4.0"
+  />
+  <circle
+    cx="24"
+    cy="18.5"
+    r="5.1"
+    fill="none"
+    stroke="#9CA3AF"
+    stroke-width="2.0"
+  />
+</svg>
